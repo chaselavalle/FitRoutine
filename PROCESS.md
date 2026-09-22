@@ -2,7 +2,7 @@
 
 **Process Model**
 
-For the FitRoutine project we are going to use Scrum as our Agile process model. Scrum enables the project to be broken into smaller tasks that are completed in a short amount of time, and then allows the next iteration to be modified according to testing and implementation.
+For the FitRoutine project we are going to use Scrum as our Agile process model. Scrum allows the project to be broken into smaller tasks that are completed in a short amount of time, and then allows the next iteration to be modified according to testing and implementation.
 
 **Project Board**
 
@@ -15,12 +15,9 @@ Our intended sprint duration is two weeks.
 
 **Sprint 1 Objective**
 
-To create the user and workout functionality prior to the addition of progress and email functionality.
+To create the user and workout functionality before we add progress and email functionality.
 
-In Sprint 1 the following features will be implemented:
-User Profile
-Workout Selection
-Weekly Workout Plan
+In Sprint 1 the following features will be implemented: User Profiles, Workout Selection, and Weekly Workout Plans.
 
 At the end of every sprint we will have a look back look at features that were implemented, test them, and update the backlog before the next sprint.
 
